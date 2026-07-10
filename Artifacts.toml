@@ -1,0 +1,509 @@
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "de30903acbd2f977b50d7173d8b9f271c9dceccd"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "eb21ba890183db8fed6e961b4b7973736c2bea33686a691c0068e935ce1c3ecc"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "0c6298e1c8dc2c3d1611d29b68d588d9985c9812"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "21619f12f4d7f85e0ddb94667dd331da25ec80931204b5572aa784b366a283bc"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "27036418da90ad4079ff307f9f64cc43f4e8b17c"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "2d8f415cab4b90f667e6f15c4e28e2ba8a8f92132cc2789424a6a91ad8544d84"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "c6cf1a2d44e855dd515e558ba3ee8041d305dc7b"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "b8d1b544a75c60b23596146ededca3abc36c5b42ae635f5e741cc77466ef2538"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "0000ccc844c23d0ad8f3bb915f565375ee802e18"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "b58fd4327dcbc49d507243e2522040d61c572b41d45f4e7e1490afbc7b8143b4"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b35fab1a1fe6527ca0b786fd4a468acbfb0a3d36"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "d4878061efa0a1d809f6224e30e79640e182a4547252cb9a1322f7e6cc007e76"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7f2e9b450f7366d4e4982d9c457893e7e2e4bcd"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "28da97f43e490b05a7a180be200928d50ca73779f8893edd8d7925af720d278a"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "306f007d36ea415ca2d371b0a0715236c11ab2dd"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "f248656e3cb5e4afb680d344eb0fef91171df886c65fe8aee0df246a791f1b81"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55351d5cd7a0828681a025937ee8c32485cb832d"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "2b5bc3853e807a94264e28310fff3ca5e7996b46404ab401ec156a3c6fc18800"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f56791791e62f47f6ca8bb0cf99587bf252a3555"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "41788192e464853ac8dc0cdeefb0a0d5708e20f45d61c11cc73b0b5e8dbe879a"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b1b99d2bc7b056cba14cf54c635e388595728a2"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "6dcaa64ea72cd3045be0176c2bb7d98c8a3b71934522bfe76100bf0e6bfb700a"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bfbc0fdacd653a518a14bec34f076299547d9161"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "f34081af397dbd2d9fd984d7035c748f41230e8ee56dc9421125722effb2df0a"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b5dadc875f353fcdaf8bfdeb78cc7d066e47a99"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "42bded3778bf3e02f7c60494cfc8793ca9189fa75dfadaf69ec90746191ab6cd"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30471c59995bad229e5de773ee517f7e1bcf7d31"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "c23f5a926c2e3997b8375c026c34f1e7a3441932be8eaeb0b37a0cddf7f07c01"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "983b2185cb94525b406593e22c63e2c55c695bec"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "a92ab195758d9751f19e071972d79cbc7807b86387563c46d55fe49be2147916"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "cf389e4babe0bdd275c2748eff0a61049d0b0aac"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "72baffb0a45da4dc4f71cc8117e7695222bc2d07fdf822031056ca191f21196f"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "e1df2ccc12602a97901b6dcc7d633fcab5dd0c39"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "17ee3cb886a3e7529fb72a0542033c7c0be8595ddf1544fcf437aa6f3dbe954f"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "aarch64"
+git-tree-sha1 = "b106be10f0a75b61fecf0ac105a952eccfabcb08"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "6edfe3c335121a0c9cd926a511e3246d59aa0c81c1576b09a4924eff9daaeb72"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2b485a5435525dfaf397a82ee03be6b7ea6bee3"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "7341c331cb995cf4768673b0df9f9d689faf96d2c84a9c45fc3e109a8a7991a9"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a634d00b8c67ad8529809696c5e2e85c14f6c761"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "4f6ada062955df1905f3619506b7d77ca5fcab87c28d2273e662e71113d420ac"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14455e8a787b1502e72ed856d003255916cdab9d"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "fde7e3e2986595377c583035d65de7a90dbe73b4a66c682e45efb57dd9eee749"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a055267c605c2fec92974d6233b4a3e4ddfcfff"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "5868c338954bdfdf6cf85c49d4c4931aac0badb133a2aae7838abb4cb7f28be8"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c31cd9f55a8991f2887b9b8eb28508b21ac7b67f"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "035fd973ddc75c2196f49caae75e2c0a43459755563fa9bf63da502dddc23bfa"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e06a2e30d74742815f9f20155006cf31a44d8310"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "93e85bcc9ebe79a9e57e23d92d184434c3bb542e4b537c99b715cc54e155d3cd"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd3c0e8472fd9a0dc5889021e32d2c6afefc616c"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "97789e54bae88d9efb2f1aae9e5169d90d226ea07d584640939cbe3147e004fc"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "109db8df1279c8d4b0c848e27b858bd459c68fed"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "fed7662b372478d68edf1cb759aaba72c4a33531f8d253280b4d6e98fa9dfba8"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "e9a3302381b352b13161e9152f95589f56fbb58a"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "6910cea2c95561dc0b497aac057ef4209480579193e30219b0bebd3706dc4eb3"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "33df3273d0f0aa401fb5f9d11c2bfd6754023e07"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "1daf35b921b5bacf626f4155e41e6011f739cb50bde8c680de316fae8af27de0"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "b356edb4b0eb67959e95a6e6981518483547cc66"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "41bca2289d4a7f02f18db1b1c2ddcce87b90c17daacb3d684b1495f531c54543"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "a7b84b5d88cd905896cf9a807ab99404566aaa45"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[databento_julia.download]]
+    sha256 = "f2fbe1e60f3144182c9e7ecf93521157ea6f2d6f2af2704fed2de7fc26bbebfd"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a746269f73a7042aaf8e2c4a57b52e507c05fdc4"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "162706c20ad30ff41d2a3a689322752eb6f50d71d7634d0467d692cc9581c438"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5e7888a2a6cd09c8be63f0633ab9a21e660cc0b"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "0da09b32cb97c61aa9d1e634d149f2ae332e5e6df002e1216181bdf1a7aa43aa"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30af04dbbfc160b78739d868207a6d86e8afd068"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "ed70bd46c2c172bf861dffaf713a4adba4b7bf6d508977e424faea21592eaf57"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8c4adb44b4b2aebf618ad7c1805d7145a3d6d52"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "bfdc0a12b492ab0e2aeb588bdaf40c7ec8c1c75a1167ef0534ec038568a40310"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b56d61bb685803ca73f968f52720bda4f035cf31"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "45e3b9a070cf768f69ed85488574a2e689d45adeadd13704817afae5d2647368"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c3d9c595ea9ec9f1a8060a5d74d4905468dd884"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "8a6491749fa8e807061ee6635b4dbd9b2bfd5e4d7a3d3f0aefde1f8c9e95f558"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e475e8dde6ab3ff2744d35b8c581a676a30422d"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "35204c539bb26eadcd99c0bfe063d339677304d7b4d4d2a0fd8ea60f38c677d1"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce0314bfac5981d6081c5cfec1c92467e79b4552"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "1639c166ebaaf53ff555a319724a5efde151ba9432aa2d1af3795375cb2f1a16"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4da3efd526e40dc0a17678c13f70f1fae49d0b94"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "db7e5528b850c11b18bdf8fe3b74e47782e601ea00f9e6a5c9c00fd6aa7adb2e"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdf4a4d08625e3037d80029e18a17a568d30eb87"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[databento_julia.download]]
+    sha256 = "76f68796f6e014c0e933d1998b4a77f24ccb945598c4bbbba572e410c358efd5"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "00bd6f81068dddd6b94bd9face9a42517d985fd9"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "fc46fcd8f2cac43bb8e1f700f945eea03eae1cce674701cfcf2de1d76323296e"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "40f75ebc90000a260f2876a5891a318c77b60bd7"
+julia_version = "1.11.1"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "4c432b6c5142a9053c033c02a750e65a958744fc3c471ec8510b01bcff1861b2"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "4c8146a727f612548abe4aeefd664bc2dc2c4d70"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "9d9f26abe20f265ed91f85ffd0f550645fd51e92deef3baea3d71efacd8a303e"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "121b38b8b39969ab9f09475de2c4c50cb89a731f"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "908d0223a9dfcc69c84c9bc1ecf3908427d91b592913f3350e6ab531f703d09d"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+git-tree-sha1 = "2725e3338697f3bb80ad51d52980a5497879da0e"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[databento_julia.download]]
+    sha256 = "3e25be98db2980185e67549f0c742d200cee3d60d942663299e413965de624e6"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c6b87ddbb02f8036ac773bb834761c9bdb9456a"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[databento_julia.download]]
+    sha256 = "68f3aad55496c0411d000e7ee6014f40d3845361c968f1424b8c8107bae54acb"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7b410872e399391c45fb7e928c1929f2b0a82df"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[databento_julia.download]]
+    sha256 = "38e867db6435948c8632c0bb083a8423185acf110957839515323a91832a0a38"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d0e8e88ec7bc9fa5c5d42b53e3772c43ed58e4a"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[databento_julia.download]]
+    sha256 = "acb02cd2d2ddd2715377965217eca7a1c58b0ab9f87f45e77b11c1f275f896a0"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6f33ac15074fde2a0afef06d3b6cc98fb41f3cb"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[databento_julia.download]]
+    sha256 = "25f41bb29da9677f6e111a3a70fd365078e972c1c2a025343aa7f57bc738e55c"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[databento_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6f33ac15074fde2a0afef06d3b6cc98fb41f3cb"
+julia_version = "1.14.0"
+os = "windows"
+
+    [[databento_julia.download]]
+    sha256 = "25f41bb29da9677f6e111a3a70fd365078e972c1c2a025343aa7f57bc738e55c"
+    url = "https://github.com/JuliaBinaryWrappers/databento_julia_jll.jl/releases/download/databento_julia-v0.1.0+0/databento_julia.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
